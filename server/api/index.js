@@ -7,6 +7,7 @@ const randomMessages = [
   "Goodbye World!",
   "JavaScript is fun!",
   "Exprrrresssssss",
+  "Learning JS"
 ];
 
 app.get("/message", (req, res) => {
